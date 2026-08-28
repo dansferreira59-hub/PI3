@@ -1,0 +1,13 @@
+# Python / Big Data
+__pycache__/
+*.pyc
+.venv/
+*.env
+
+# Cache do Office
+~$*.docx
+~$*.xlsx
+
+# Arquivos do SO
+.DS_Store
+Thumbs.db
